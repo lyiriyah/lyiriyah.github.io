@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@500&display=swap');  
+html {
+		font-family: 'Source Code Pro', monospace;
+		background-color: #003366;
+		color: gainsboro
+}
+
+.current {
+				color: #009966;
+				text-decoration: none
+}
+
+.nav {
+				text-decoration: none;
+				color: gainsboro;
+				background-color: #003366
+}
+.navbar {
+				position: fixed;
+				top: 0;
+				width: 100;
+}
+
+.main {
+				margin-top: 10px;
+}
+
+/*.link {
+				color: gainsboro;
+				text-decoration: none;
+}*/
