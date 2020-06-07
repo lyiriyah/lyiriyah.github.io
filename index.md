@@ -11,4 +11,3 @@ This is a list of repositories that are half-decent.
 
 Stuff that I've put here to help peeps:
 * <a href="/startpage/index.html" class="current">Manilarome's glorious startpage.</a>
-* <!--<a href="/monopoly/index.html" class="current">A UK version of intrepidcoder's JS Monopoly</a>-->
