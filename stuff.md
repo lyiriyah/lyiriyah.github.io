@@ -1,8 +1,8 @@
 ---
 layout: default
-title: /home/stuff
+title: ~/stuff
 ---
-# Other stuff
+# ~/stuff 
 These are some quick guides on how to do things, setup tours and other such bollocks.
 
 <a href="/stuff/aur-on-manjaro.html" class="current">AUR on vanilla Manjaro</a>  

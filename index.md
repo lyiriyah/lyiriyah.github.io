@@ -1,8 +1,8 @@
 ---
 layout: default
-title: /home
+title: ~
 ---
-# /home
+# ~
 
 This is a list of repositories that are half-decent.  
 * <a href="https://www.github.com/lyiriyah/wopython" class="current">WOPR in Python</a>
