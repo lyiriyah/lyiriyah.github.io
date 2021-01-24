@@ -1,8 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+@font-face {
+	font-family: 'JetBrains Mono';
+	src: url('https://raw.githubusercontent.com/JetBrains/JetBrainsMono/master/fonts/webfonts/JetBrainsMono-Regular.woff2') format('woff2'),
+	url('https://raw.githubusercontent.com/JetBrains/JetBrainsMono/master/fonts/ttf/JetBrainsMono-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
 
 * {
+	font-family: 'JetBrains Mono';
 	background-color: #282828;
-	font-family: 'Source Code Pro', monospace;
-	font-color: #d5c4a1;
-	
+	color: #d5c4a1;
+
 }
